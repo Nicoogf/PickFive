@@ -1,4 +1,10 @@
+<script setup>
+import BaseLayout from './components/BaseLayout.vue'
+</script>
+
 <template>
-  <h1>Pick Fivegit checkout -b setup/router</h1>
-  <RouterView />
+  <BaseLayout>
+    <RouterView />
+  </BaseLayout>
 </template>
+
