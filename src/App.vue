@@ -1,5 +1,4 @@
 <template>
-  <div class="text-slate-800 text-2xl font-semibold text-center uppercase">
-    <h1> Pick Five</h1>
-  </div>
+  <h1>Pick Fivegit checkout -b setup/router</h1>
+  <RouterView />
 </template>
