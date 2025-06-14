@@ -55,7 +55,7 @@ onMounted(() => {
       </div>
     </div>
 
-    <div v-if="loading && games.length > 0" class="mt-4 text-gray-500">Cargando más...</div>
+    <div v-if="loading && games.length > 0" class="mt-4 text-gray-500">Cargando más elementos git add ...</div>
   </div>
 </template>
 
